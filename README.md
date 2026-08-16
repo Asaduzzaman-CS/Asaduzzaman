@@ -1,7 +1,7 @@
 # Problem Solving Of C language
 This is my first Git Repository.
 <br>
-Author - Asaduzzaman
+Author - C Programming
 # Hi, I'am Muhammad Asaduzzaman
 <br>
 Learning  C Programming 
